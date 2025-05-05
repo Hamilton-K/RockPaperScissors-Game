@@ -1,2 +1,2 @@
-# AuthorizationUsingArrays
-A simple login page that checks if your passwords match or not
+# Rock-Paper-Scissors-Game
+Rock Paper Scissors Game created with html+css+js
